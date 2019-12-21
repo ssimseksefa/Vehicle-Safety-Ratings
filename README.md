@@ -16,10 +16,12 @@ I want to look the whole crash data instead of fatal crashes. Hence the question
 5.	Demo Day!! (1/9/2020)
 
 # Data Sources
-Accident & vehicles 
--       ftp://ftp.nhtsa.dot.gov/ 
+Accident & vehicles:
+
+ftp://ftp.nhtsa.dot.gov/  
+
 Registered vehicles:
--       New York https://data.ny.gov/browse?q=vehicle%20make%20&sortBy=relevance 
--       UK https://www.gov.uk/government/statistical-data-sets/all-vehicles-veh01
+-   New York: https://data.ny.gov/browse?q=vehicle%20make%20&sortBy=relevance 
+-   UK: https://www.gov.uk/government/statistical-data-sets/all-vehicles-veh01
 # Known Issues and Challenges
 I could not find the record of all registered vehicles by make, model for overall U.S. yet. If there is no such available data I will look only for highly populated cities or states. I may look other countries’ crash reports and vehicles if I could not find enough data to make analysis.
