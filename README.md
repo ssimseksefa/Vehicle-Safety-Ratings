@@ -18,7 +18,7 @@ I want to look the whole crash data instead of fatal crashes. Hence the question
 # Data Sources
 Accident & vehicles:
 
-ftp://ftp.nhtsa.dot.gov/  
+<ftp://ftp.nhtsa.dot.gov/> 
 
 Registered vehicles:
 -   New York: https://data.ny.gov/browse?q=vehicle%20make%20&sortBy=relevance 
