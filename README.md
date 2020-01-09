@@ -16,7 +16,7 @@ I want to look the whole crash data instead of fatal crashes. Hence the question
 The main source of my data is NHTSA and the big part of it is csv file. However, since one of the file for 2018 is not released yet, I pulled the vin decoding data from API.
 
 **Data Sources:**
-* [Accidents & vehicles](ftp://ftp.nhtsa.dot.gov/)
+* [Accidents & vehicles](ftp://ftp.nhtsa.dot.gov/) : ftp://ftp.nhtsa.dot.gov/
 * [VIN decode API](https://vpic.nhtsa.dot.gov/api/)
 * [Car features and MSRP](https://www.kaggle.com/CooperUnion/cardataset/data)
 
