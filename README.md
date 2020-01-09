@@ -1,14 +1,14 @@
 # Vehicle Safety Ratings
-In this project I will investigate the crash reports and try to find which types of vehicles (bosy type/make/model) are safer. 
+In this project I will investigate the crash reports and try to find which types of vehicles (body type/make/model) are safer. 
 # Motivation
-I allow my analytical skills to help my decision making for possible future vehicle purchases. When deciding a car to buy, the safety is always a major issue. As a matter of fact it may be the most important feature.
+I allow my analytical skills to help my decision making for possible future vehicle purchases. When deciding a car to buy, the safety is always a major issue. As a matter of fact, it may be the most important feature.
 
-There are [safety rankings](https://www.nhtsa.gov/ratings) available from NHTSA (National Highway Traffic Administration), but it is created based on the test results. These test crashes happens in a laboratory environment which covers only certain types of crash conditions.
+There are [safety rankings](https://www.nhtsa.gov/ratings) available from NHTSA (National Highway Traffic Administration), but it is created based on the test results. These test crashes happen in a laboratory environment which covers only certain types of crash conditions.
 
-What I want to see is what is happening in real world. Hence I look answer from **accidents reported in _2016, 2017 and 2018_, in US.** 
+What I want to see is what is happening in real world. Hence, I look answer from **accidents reported in _2016, 2017 and 2018_, in US.** 
 
 # Data Question
-There is a [similiar work](https://www.iihs.org/api/datastoredocument/status-report/pdf/52/3) from a nonprofit organization, The Insurance Institute for Highway Safety (IIHS) about **_death rates_** by make and model. This report shows the fatality rate of vehicles.
+There is a [similar work](https://www.iihs.org/api/datastoredocument/status-report/pdf/52/3) from a nonprofit organization, The Insurance Institute for Highway Safety (IIHS) about **_death rates_** by make and model. This report shows the fatality rate of vehicles.
 
 I want to look the whole crash data instead of fatal crashes. Hence the question of this project is more general: Which make, model vehicles are safer? 
 
@@ -30,4 +30,4 @@ The main source of my data is NHTSA and the big part of it is csv file. However,
 Here is the [interactive dashboards](https://public.tableau.com/profile/sefa4601#!/vizhome/vehicle_safety_1/VehicleSafetyRatings) which you can find your next car.
 
 # Future work
-These analysis is made by crash reports only. So I created safety rating from the results of crashes happened. However many vehicles have safety features which may prevent the accident. If there is all registered vehicles data available I also want to see pre-caution ratings for vehicles.
+This analysis is made by crash reports only. So, I created safety rating from the results of crashes happened. However, many vehicles have safety features which may prevent the accident. If there is all registered vehicles data available, I also want to see pre-caution ratings for vehicles.
